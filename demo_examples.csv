@@ -1,0 +1,8 @@
+cover_type,elevation,aspect,slope,horizontal_dist_to_water,vertical_dist_to_water,horizontal_distance_to_roadways,horizontal_dist_to_fire,hillshade_9am,hillshade_noon,hillshade_3pm,wilderness_area,soil_type
+Aspen,2715,123,26,67,20,2781,2121,253,211,69,1,29
+Cottonwood/Willow,2233,146,16,42,12,566,1744,240,236,120,4,3
+Douglas-Fir,2355,205,24,180,85,1206,417,198,253,179,4,1
+Krummholz,3282,340,21,755,166,1328,1624,170,204,170,3,39
+Lodgepole Pine,3043,327,15,361,3,4858,331,183,223,178,1,29
+Ponderosa Pine,2453,165,22,30,-3,1332,636,233,241,128,3,4
+Spruce/Fir,3206,304,7,124,-7,3302,1410,201,237,175,1,22
